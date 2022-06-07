@@ -8,7 +8,7 @@
 
 Put eclipse_TattooShopp in your resource directory
 
-Setting config `resources\eclipse_BarberShop\config.json`
+Setting config `resources\eclipse_TattooShop\config.json`
 
 	Change language, add new shops, confige tattoo types in shops and etc.
   ![image](https://cdn.discordapp.com/attachments/759479979435098152/943156160901566524/unknown.png)
